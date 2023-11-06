@@ -46,15 +46,15 @@
 
 ## Insights Gained From Performing EDA& My Reccommendations To The Microsoft Team.
 
-** - After performing EDA on the 'movie_gross' dataset and making use of my domain knowledge, I have come to the following conclusions;
+- After performing EDA on the 'movie_gross' dataset and making use of my domain knowledge, I have come to the following conclusions;
 
-**1).** The Microsoft team should primarily focus on creating movies that are bound to have a sequel. This is because, over the time period of 2010-2018, most of the top-performing movies are either prequels or sequels while the bottom performers are stand-alone movies. The team should also look into the genres of these top-performing movies so as to capitalize on these genre markets.
+     **1).** The Microsoft team should primarily focus on creating movies that are bound to have a sequel. This is because, over the time period of 2010-2018, most of the top-performing movies are either prequels or sequels while the bottom performers are stand-alone movies. The team should also look into the genres of these top-performing movies so as to capitalize on these genre markets.
 
-**2).** The team should  majorly focus on creating movies that appeal to foreign markets. This is because, across the given time period, foreign gross revenue has been significantly higher than Domestic gross revenue. Still, on the same basis, the team should set aside a significantly higher marketing budget for foreign market advertisement in comparison to domestic market advertising.
+     **2).** The team should  majorly focus on creating movies that appeal to foreign markets. This is because, across the given time period, foreign gross revenue has been significantly higher than Domestic gross revenue. Still, on the same basis, the team should set aside a significantly higher marketing budget for foreign market advertisement in comparison to domestic market advertising.
 
-**3).** I would also recommend that the Microsoft team consider collaborating with the Top 10 ranked Studios( in terms of revenue generation) when running marketing campaigns. This is because these studios are more likely to have a wider audience reach and are frequented by top movie fanatics.
+     **3).** I would also recommend that the Microsoft team consider collaborating with the Top 10 ranked Studios( in terms of revenue generation) when running marketing campaigns. This is because these studios are more likely to have a wider audience reach and are frequented by top movie fanatics.
 
-**4).** Lastly, the team could investigate the cause of a spike in movie revenue generation from the year 2014 onwards. Might it be due to a change in movie graphics? Could it be due to a focus on a particular topic(s)? etc...From this, the team could obtain information to be used as a guide during movie production in order to ensure that their movies are top-ranking. (From the data availed, I am not able to perform this analysis).
+    **4).** Lastly, the team could investigate the cause of a spike in movie revenue generation from the year 2014 onwards. Might it be due to a change in movie graphics? Could it be due to a focus on a particular topic(s)? etc...From this, the team could obtain information to be used as a guide during movie production in order to ensure that their movies are top-ranking. (From the data availed, I am not able to perform this analysis).
 
 
 
