@@ -32,7 +32,7 @@
 
 - Finally, I **capitalized all of the column names** .In addition, I ensured that all numerical values in the dataset would be displayed as float data type upon further computation.
 
-  ## Performing EDA on the Cleaned and Transformed Dataset.
+## EDA on the Cleaned and Transformed Dataset.
 
 - I performed EDA on the clean and transformed dataset by:
 
