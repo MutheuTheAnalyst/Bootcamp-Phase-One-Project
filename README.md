@@ -1,4 +1,4 @@
-# Performing EDA on Selected Box office Movies.
+# Performing EDA on Selected Box Office Movies.
 
 ## Business Problem.
 
